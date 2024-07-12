@@ -1,4 +1,4 @@
-# Multinode_Shepard
+# Multinode Shepard method: the MATLAB Implementation
 Multinode_Shepard: a software package for the implementation of the multinode Shepard method. The folder contains the following file:
 - demo_Stromboli: In this demo we approximate the Stromboli Volcano including the Sciara del Fuoco of 2002 lava flow surface from a data set of 95020 data stored in the file "Stromboli_nodes" on the 2000 points of the file "Stromboli_evaluations".
 - demo_trial: In this demo we approximate a given function f by using as dataset Halton points in  [0,1]x[0,1]
