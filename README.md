@@ -6,4 +6,5 @@ Multinode_Shepard: a software package for the implementation of the multinode Sh
 - Multinode_Shepard2: correspond to the implementation of the multinode Shepard method in which we reduce the number of $m$-tuples
 - powers: computes the powers of the monomial of $d$ variables
 - mono_next_grlex: computes, one by one in graded lexicographic order, the monomials of $d$ variables of successively higher degrees.
-- BivVand: computes the Bivariate Vandermonde Matrix 
+- BivVand: computes the Bivariate Vandermonde Matrix
+- Points: computes set of Halton and Sobol points
