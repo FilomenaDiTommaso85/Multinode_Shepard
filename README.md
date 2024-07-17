@@ -9,3 +9,6 @@ Multinode_Shepard: a software package for the implementation of the multinode Sh
 - BivVand: computes the Bivariate Vandermonde Matrix
 - Points: computes set of Halton and Sobol points
 
+
+AUTHORS:
+F. Dell'Accio, F. Di Tommaso, F. Larosa
